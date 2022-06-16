@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on @LuizaLabs
+- 🔭 I’m currently working on @GrupoBoticario
 - 🌱 I’m currently learning a lot of things, but especially NodeJS
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with ElasticSearch
